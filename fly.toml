@@ -1,0 +1,7 @@
+app = "telegrambot-vxierw"
+
+[env]
+  PORT = "8080"
+
+[processes]
+  app = "python bot.py"
